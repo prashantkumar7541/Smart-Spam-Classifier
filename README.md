@@ -20,4 +20,4 @@ To clone this repository and set up the project locally, follow these steps:
 2. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/spam-email-classification.git
+   git clone https://github.com/prashantkumar7541/spam-email-classification.git
